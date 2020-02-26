@@ -1,1 +1,1 @@
-ssh -i iteso2.pem -o StrictHostKeyChecking=no centos@edge
+ssh -i itesoASN.pem -o StrictHostKeyChecking=no ec2-user@edge
